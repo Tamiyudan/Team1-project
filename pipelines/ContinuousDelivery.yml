@@ -8,9 +8,9 @@ env:
 
   # Sonar stuff, please update accordingly
   enable_sonar:    "true"
-  sonar_organization: "farrukh90"
+  sonar_organization: "Tamiydan"
   sonar_projectKey: "artemis"
-  sonar_login: "6d0fdac83b77ba7341ce5b62f8b7feebaaad398b"
+  sonar_login: "f2466104ab5a2e4d28e75caf26b57d09816a5472"
 
 
 
