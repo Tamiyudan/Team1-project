@@ -8,11 +8,15 @@ env:
 
   # Sonar stuff, please update accordingly
   enable_sonar:    "true"
+<<<<<<< HEAD
+  sonar_organization: "Tamiyudan"
+=======
 <<<<<<< HEAD:pipelines/ContinuousDelivery.yml
   sonar_organization: "Tamiyudan"
 =======
   sonar_organization: "Tamiydan"
 >>>>>>> 619466292443d8cfba73a2073219d7996563441d:.github/workflows/ContinuousDelivery.yml
+>>>>>>> 48ff775a57e5605111950dcc4a423db627aa1828
   sonar_projectKey: "artemis"
   sonar_login: "f2466104ab5a2e4d28e75caf26b57d09816a5472"
 
@@ -26,6 +30,8 @@ name: ContinuousDelivery
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
+    branches: [ "main" ]
+  pull_requests: 
     branches: [ "main" ]
 
 
