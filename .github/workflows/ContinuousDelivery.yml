@@ -8,12 +8,7 @@ env:
 
   # Sonar stuff, please update accordingly
   enable_sonar:    "true"
-<<<<<<< HEAD
   sonar_organization: "Tamiyudan"
-=======
-<<<<<<< HEAD:pipelines/ContinuousDelivery.yaml
-  sonar_organization: "Tamiyudan"
-=======
   sonar_projectKey: "Team1-project"
   sonar_login: "f529931b5b538ca43f3d3fa2568bcbf0dee22214"
 
