@@ -1,16 +1,16 @@
 env:
   repo:            "https://github.com/farrukh90/artemis"
-  app_version:     "2.0.0"
+  app_version:     "3.0.0"
   repo_region:     "us-central1"
   project_id:      "${{ secrets.PROJECT_ID }}"
-  app_name:        "artemis"
+  app_name:        "artemis1"
   tag_new_version: "${GITHUB_SHA}"
 
   # Sonar stuff, please update accordingly
   enable_sonar:    "true"
   sonar_organization: "Tamiyudan"
-  sonar_projectKey: "artemis"
-  sonar_login: "f2466104ab5a2e4d28e75caf26b57d09816a5472"
+  sonar_projectKey: "Team1-project"
+  sonar_login: "bd05db6771a34d8bb2f371ed2f1aa4e2173b7e24"
 
 
 
