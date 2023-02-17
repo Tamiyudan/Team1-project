@@ -8,7 +8,7 @@ env:
 
   # Sonar stuff, please update accordingly
   enable_sonar:    "true"
-  sonar_organization: "Tamiydan"
+  sonar_organization: "Tamiyudan"
   sonar_projectKey: "artemis"
   sonar_login: "f2466104ab5a2e4d28e75caf26b57d09816a5472"
 
