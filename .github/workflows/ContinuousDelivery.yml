@@ -11,14 +11,11 @@ env:
 <<<<<<< HEAD
   sonar_organization: "Tamiyudan"
 =======
-<<<<<<< HEAD:pipelines/ContinuousDelivery.yml
+<<<<<<< HEAD:pipelines/ContinuousDelivery.yaml
   sonar_organization: "Tamiyudan"
 =======
-  sonar_organization: "Tamiydan"
->>>>>>> 619466292443d8cfba73a2073219d7996563441d:.github/workflows/ContinuousDelivery.yml
->>>>>>> 48ff775a57e5605111950dcc4a423db627aa1828
-  sonar_projectKey: "artemis"
-  sonar_login: "f2466104ab5a2e4d28e75caf26b57d09816a5472"
+  sonar_projectKey: "Team1-project"
+  sonar_login: "f529931b5b538ca43f3d3fa2568bcbf0dee22214"
 
 
 
