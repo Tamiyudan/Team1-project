@@ -1,0 +1,5 @@
+[Debug 01:36:00.173] TableOfContentsProvider: create - file:///mnt/Tamiyudan/Project/README.md
+[Debug 01:36:00.284] LinkProvider: compute - file:///mnt/Tamiyudan/Project/README.md
+[Debug 01:36:00.387] MdFoldingProvider: provideFoldingRanges - file:///mnt/Tamiyudan/Project/README.md
+[Trace 01:36:20.842] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///mnt/Tamiyudan/Project/project/README.md
+[Trace 01:38:36.813] VsCodeClientWorkspace: onDidChangeWatchedFiles: 3: file:///mnt/Tamiyudan/Project/README.md

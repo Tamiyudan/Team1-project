@@ -1,0 +1,89 @@
+[2023-02-16 11:19:14.097] [remoteagent] [info] Extension host agent started.
+[2023-02-16 11:19:14.516] [remoteagent] [error] [127.0.0.1][f96c936d][ManagementConnection] Unknown reconnection token (never seen).
+[2023-02-16 11:19:14.712] [remoteagent] [error] [127.0.0.1][a48c3792][ExtensionHostConnection] Unknown reconnection token (never seen).
+[2023-02-16 14:55:12.853] [remoteagent] [info] [127.0.0.1][eac37ddb][ManagementConnection] New connection established.
+[2023-02-16 14:55:12.982] [remoteagent] [info] [127.0.0.1][a766e9a0][ExtensionHostConnection] New connection established.
+[2023-02-16 14:55:12.995] [remoteagent] [info] [127.0.0.1][a766e9a0][ExtensionHostConnection] <1974765> Launched Extension Host Process.
+[2023-02-16 14:56:07.076] [remoteagent] [info] [127.0.0.1][eac37ddb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2023-02-16 14:56:07.121] [remoteagent] [info] [127.0.0.1][a766e9a0][ExtensionHostConnection] <1974765> Extension Host Process exited with code: 0, signal: null.
+[2023-02-16 14:56:07.122] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2023-02-16 14:56:22.990] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2023-02-16 14:56:22.991] [remoteagent] [info] Cancelling previous shutdown timeout
+[2023-02-16 14:56:23.951] [remoteagent] [info] [127.0.0.1][767ec908][ManagementConnection] New connection established.
+[2023-02-16 14:56:23.960] [remoteagent] [info] [127.0.0.1][516b896d][ExtensionHostConnection] New connection established.
+[2023-02-16 14:56:23.971] [remoteagent] [info] [127.0.0.1][516b896d][ExtensionHostConnection] <1982619> Launched Extension Host Process.
+[2023-02-16 14:56:38.097] [remoteagent] [error] ["ErrorNoTelemetry: Could not find pty on pty host","    at d._throwIfNoPty (/mnt/Tamiyudan/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/platform/terminal/node/ptyHostMain.js:24:29654)","    at d.updateIcon (/mnt/Tamiyudan/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/platform/terminal/node/ptyHostMain.js:24:25490)","    at Object.call (/mnt/Tamiyudan/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/platform/terminal/node/ptyHostMain.js:16:8327)","    at a.onPromise (/mnt/Tamiyudan/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/platform/terminal/node/ptyHostMain.js:15:4892)","    at a.onRawMessage (/mnt/Tamiyudan/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/platform/terminal/node/ptyHostMain.js:15:4275)","    at /mnt/Tamiyudan/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/platform/terminal/node/ptyHostMain.js:15:3561","    at f.invoke (/mnt/Tamiyudan/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/platform/terminal/node/ptyHostMain.js:11:145)","    at N.deliver (/mnt/Tamiyudan/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/platform/terminal/node/ptyHostMain.js:11:2275)","    at I.fire (/mnt/Tamiyudan/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/platform/terminal/node/ptyHostMain.js:11:1853)","    at process.Q (/mnt/Tamiyudan/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/platform/terminal/node/ptyHostMain.js:9:20673)","    at process.emit (node:events:390:28)","    at emit (node:internal/child_process:917:12)","    at processTicksAndRejections (node:internal/process/task_queues:84:21)"]
+[2023-02-16 14:56:38.097] [remoteagent] [error] ["ErrorNoTelemetry: Could not find pty on pty host","    at d._throwIfNoPty (/mnt/Tamiyudan/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/platform/terminal/node/ptyHostMain.js:24:29654)","    at d.updateTitle (/mnt/Tamiyudan/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/platform/terminal/node/ptyHostMain.js:24:25430)","    at Object.call (/mnt/Tamiyudan/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/platform/terminal/node/ptyHostMain.js:16:8327)","    at a.onPromise (/mnt/Tamiyudan/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/platform/terminal/node/ptyHostMain.js:15:4892)","    at a.onRawMessage (/mnt/Tamiyudan/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/platform/terminal/node/ptyHostMain.js:15:4275)","    at /mnt/Tamiyudan/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/platform/terminal/node/ptyHostMain.js:15:3561","    at f.invoke (/mnt/Tamiyudan/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/platform/terminal/node/ptyHostMain.js:11:145)","    at N.deliver (/mnt/Tamiyudan/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/platform/terminal/node/ptyHostMain.js:11:2275)","    at I.fire (/mnt/Tamiyudan/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/platform/terminal/node/ptyHostMain.js:11:1853)","    at process.Q (/mnt/Tamiyudan/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/platform/terminal/node/ptyHostMain.js:9:20673)","    at process.emit (node:events:390:28)","    at emit (node:internal/child_process:917:12)","    at processTicksAndRejections (node:internal/process/task_queues:84:21)"]
+[2023-02-16 15:01:22.993] [remoteagent] [info] New EH opened, aborting shutdown
+[2023-02-16 16:35:06.819] [remoteagent] [info] [127.0.0.1][767ec908][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2023-02-16 16:35:06.855] [remoteagent] [info] [127.0.0.1][516b896d][ExtensionHostConnection] <1982619> Extension Host Process exited with code: 0, signal: null.
+[2023-02-16 16:35:06.856] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2023-02-16 16:35:13.845] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2023-02-16 16:35:13.845] [remoteagent] [info] Cancelling previous shutdown timeout
+[2023-02-16 16:35:14.428] [remoteagent] [info] [127.0.0.1][05ee9014][ManagementConnection] New connection established.
+[2023-02-16 16:35:14.638] [remoteagent] [info] [127.0.0.1][355cf63e][ExtensionHostConnection] New connection established.
+[2023-02-16 16:35:14.661] [remoteagent] [info] [127.0.0.1][355cf63e][ExtensionHostConnection] <2395645> Launched Extension Host Process.
+[2023-02-16 16:40:13.846] [remoteagent] [info] New EH opened, aborting shutdown
+[2023-02-16 18:56:42.890] [remoteagent] [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+[2023-02-16 19:05:45.544] [remoteagent] [info] [127.0.0.1][05ee9014][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2023-02-16 19:05:45.598] [remoteagent] [info] [127.0.0.1][355cf63e][ExtensionHostConnection] <2395645> Extension Host Process exited with code: 0, signal: null.
+[2023-02-16 19:05:45.598] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2023-02-16 19:05:54.410] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2023-02-16 19:05:54.411] [remoteagent] [info] Cancelling previous shutdown timeout
+[2023-02-16 19:05:55.334] [remoteagent] [info] [127.0.0.1][94979d1a][ManagementConnection] New connection established.
+[2023-02-16 19:05:55.425] [remoteagent] [info] [127.0.0.1][b2589212][ExtensionHostConnection] New connection established.
+[2023-02-16 19:05:55.438] [remoteagent] [info] [127.0.0.1][b2589212][ExtensionHostConnection] <2909396> Launched Extension Host Process.
+[2023-02-16 19:08:46.937] [remoteagent] [info] [127.0.0.1][94979d1a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2023-02-16 19:08:46.974] [remoteagent] [info] [127.0.0.1][b2589212][ExtensionHostConnection] <2909396> Extension Host Process exited with code: 0, signal: null.
+[2023-02-16 19:08:46.975] [remoteagent] [info] Cancelling previous shutdown timeout
+[2023-02-16 19:08:46.975] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2023-02-16 19:08:53.614] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2023-02-16 19:08:53.614] [remoteagent] [info] Cancelling previous shutdown timeout
+[2023-02-16 19:08:54.101] [remoteagent] [info] [127.0.0.1][6dd25dd7][ManagementConnection] New connection established.
+[2023-02-16 19:08:54.396] [remoteagent] [info] [127.0.0.1][e256f45a][ExtensionHostConnection] New connection established.
+[2023-02-16 19:08:54.420] [remoteagent] [info] [127.0.0.1][e256f45a][ExtensionHostConnection] <2914821> Launched Extension Host Process.
+[2023-02-16 19:13:53.619] [remoteagent] [info] New EH opened, aborting shutdown
+[2023-02-16 19:19:07.481] [remoteagent] [info] [127.0.0.1][6dd25dd7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2023-02-16 19:19:08.852] [remoteagent] [info] [127.0.0.1][e256f45a][ExtensionHostConnection] <2914821> Extension Host Process exited with code: 0, signal: null.
+[2023-02-16 19:19:08.852] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2023-02-16 19:19:13.364] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2023-02-16 19:19:13.364] [remoteagent] [info] Cancelling previous shutdown timeout
+[2023-02-16 19:19:13.906] [remoteagent] [info] [127.0.0.1][46e4b036][ManagementConnection] New connection established.
+[2023-02-16 19:19:14.182] [remoteagent] [info] [127.0.0.1][85b20388][ExtensionHostConnection] New connection established.
+[2023-02-16 19:19:14.194] [remoteagent] [info] [127.0.0.1][85b20388][ExtensionHostConnection] <2921808> Launched Extension Host Process.
+[2023-02-16 19:21:21.472] [remoteagent] [info] [127.0.0.1][46e4b036][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2023-02-16 19:21:21.520] [remoteagent] [info] [127.0.0.1][85b20388][ExtensionHostConnection] <2921808> Extension Host Process exited with code: 0, signal: null.
+[2023-02-16 19:21:21.520] [remoteagent] [info] Cancelling previous shutdown timeout
+[2023-02-16 19:21:21.520] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2023-02-16 19:21:27.790] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2023-02-16 19:21:27.790] [remoteagent] [info] Cancelling previous shutdown timeout
+[2023-02-16 19:21:28.305] [remoteagent] [info] [127.0.0.1][31245a0a][ManagementConnection] New connection established.
+[2023-02-16 19:21:28.467] [remoteagent] [info] [127.0.0.1][2cb15ae8][ExtensionHostConnection] New connection established.
+[2023-02-16 19:21:28.478] [remoteagent] [info] [127.0.0.1][2cb15ae8][ExtensionHostConnection] <2923238> Launched Extension Host Process.
+[2023-02-16 19:26:27.791] [remoteagent] [info] New EH opened, aborting shutdown
+[2023-02-16 19:28:54.436] [remoteagent] [info] [127.0.0.1][31245a0a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2023-02-16 19:28:54.474] [remoteagent] [info] [127.0.0.1][2cb15ae8][ExtensionHostConnection] <2923238> Extension Host Process exited with code: 0, signal: null.
+[2023-02-16 19:28:54.474] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2023-02-16 19:29:10.551] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2023-02-16 19:29:10.551] [remoteagent] [info] Cancelling previous shutdown timeout
+[2023-02-16 19:29:11.083] [remoteagent] [info] [127.0.0.1][17f6f5ef][ManagementConnection] New connection established.
+[2023-02-16 19:29:11.227] [remoteagent] [info] [127.0.0.1][e26b0efb][ExtensionHostConnection] New connection established.
+[2023-02-16 19:29:11.239] [remoteagent] [info] [127.0.0.1][e26b0efb][ExtensionHostConnection] <2933740> Launched Extension Host Process.
+[2023-02-16 19:33:00.106] [remoteagent] [info] [127.0.0.1][17f6f5ef][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2023-02-16 19:33:01.315] [remoteagent] [info] [127.0.0.1][e26b0efb][ExtensionHostConnection] <2933740> Extension Host Process exited with code: 0, signal: null.
+[2023-02-16 19:33:01.315] [remoteagent] [info] Cancelling previous shutdown timeout
+[2023-02-16 19:33:01.315] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2023-02-16 19:33:07.379] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2023-02-16 19:33:07.379] [remoteagent] [info] Cancelling previous shutdown timeout
+[2023-02-16 19:33:07.950] [remoteagent] [info] [127.0.0.1][17f16d53][ManagementConnection] New connection established.
+[2023-02-16 19:33:08.068] [remoteagent] [info] [127.0.0.1][17c0bcef][ExtensionHostConnection] New connection established.
+[2023-02-16 19:33:08.079] [remoteagent] [info] [127.0.0.1][17c0bcef][ExtensionHostConnection] <2938772> Launched Extension Host Process.
+[2023-02-16 19:34:50.375] [remoteagent] [info] [127.0.0.1][17f16d53][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2023-02-16 19:34:50.416] [remoteagent] [info] [127.0.0.1][17c0bcef][ExtensionHostConnection] <2938772> Extension Host Process exited with code: 0, signal: null.
+[2023-02-16 19:34:50.416] [remoteagent] [info] Cancelling previous shutdown timeout
+[2023-02-16 19:34:50.416] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2023-02-16 19:34:56.679] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2023-02-16 19:34:56.679] [remoteagent] [info] Cancelling previous shutdown timeout
+[2023-02-16 19:34:57.171] [remoteagent] [info] [127.0.0.1][41669c4e][ManagementConnection] New connection established.
+[2023-02-16 19:34:57.346] [remoteagent] [info] [127.0.0.1][7530bd2e][ExtensionHostConnection] New connection established.
+[2023-02-16 19:34:57.358] [remoteagent] [info] [127.0.0.1][7530bd2e][ExtensionHostConnection] <2940446> Launched Extension Host Process.

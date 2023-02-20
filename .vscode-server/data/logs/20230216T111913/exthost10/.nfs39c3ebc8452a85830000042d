@@ -1,0 +1,49 @@
+[2023-02-16 19:34:58.848] [exthost] [info] Extension host with pid 2940446 started
+[2023-02-16 19:34:58.857] [exthost] [info] Lock '/mnt/Tamiyudan/.vscode-server/data/User/workspaceStorage/f5370853e98074ee9910e736fe6cbe64/vscode.lock': Lock acquired.
+[2023-02-16 19:34:59.084] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2023-02-16 19:34:59.095] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2023-02-16 19:34:59.106] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2023-02-16 19:34:59.268] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2023-02-16 19:34:59.370] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2023-02-16 19:34:59.651] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2023-02-16 19:34:59.677] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2023-02-16 19:34:59.686] [exthost] [info] Eager extensions activated
+[2023-02-16 19:35:01.947] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6800
+[2023-02-16 19:35:05.501] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6801
+[2023-02-16 19:35:11.912] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6801
+[2023-02-16 19:35:18.429] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6801
+[2023-02-16 19:35:24.926] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6801
+[2023-02-16 19:35:31.697] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6801
+[2023-02-16 19:35:42.365] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6801
+[2023-02-16 19:35:48.816] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6801
+[2023-02-16 19:35:55.410] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6802
+[2023-02-16 19:35:59.124] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2023-02-16 19:35:59.148] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2023-02-16 19:36:00.263] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2023-02-16 19:36:02.558] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6803
+[2023-02-16 19:36:09.146] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6803
+[2023-02-16 19:36:15.859] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6803
+[2023-02-16 19:36:22.523] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6803
+[2023-02-16 19:36:29.006] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6803
+[2023-02-16 19:36:35.729] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6803
+[2023-02-16 19:36:42.244] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6803
+[2023-02-16 19:36:48.784] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6803
+[2023-02-16 19:36:55.288] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6803
+[2023-02-16 19:37:01.841] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6803
+[2023-02-16 19:37:08.615] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6803
+[2023-02-16 19:37:15.135] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6803
+[2023-02-16 19:37:21.681] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6803
+[2023-02-16 19:37:28.176] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6803
+[2023-02-16 19:37:34.673] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6803
+[2023-02-16 19:37:41.376] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6803
+[2023-02-16 19:37:47.845] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6803
+[2023-02-16 19:37:54.351] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6803
+[2023-02-16 19:37:59.368] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6803
+[2023-02-16 19:38:01.447] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6802
+[2023-02-16 19:38:05.225] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6802
+[2023-02-16 19:38:12.833] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6802
+[2023-02-16 19:38:35.562] [exthost] [error] Error: ENOENT: no such file or directory, open '/mnt/Tamiyudan/.vscode-server/data/User/workspaceStorage/f5370853e98074ee9910e736fe6cbe64/vscode.lock'
+[2023-02-16 19:38:35.564] [exthost] [info] Lock '/mnt/Tamiyudan/.vscode-server/data/User/workspaceStorage/f5370853e98074ee9910e736fe6cbe64/vscode.lock': The lock was lost unexpectedly.
+[2023-02-16 19:38:35.587] [exthost] [error] Error: ENOENT: no such file or directory, utime '/mnt/Tamiyudan/.vscode-server/data/User/workspaceStorage/f5370853e98074ee9910e736fe6cbe64/vscode.lock'
+[2023-02-16 19:38:35.587] [exthost] [info] Lock '/mnt/Tamiyudan/.vscode-server/data/User/workspaceStorage/f5370853e98074ee9910e736fe6cbe64/vscode.lock': Could not update mtime.
+[2023-02-16 19:38:42.828] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6811
